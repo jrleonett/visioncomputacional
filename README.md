@@ -60,9 +60,9 @@ Para ejecutar este código, es necesario tener los siguientes archivos en el ent
 Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```bash
 @article{joséRLeonett,
-  title={Análisis FFT y Espectrográfico de audios},
+  title={Procesamiento de imágenes por visión computacional},
   author={José R. Leonett},
-  year={2024}
+  year={2023}
 }
 ```
 
