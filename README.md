@@ -1,6 +1,6 @@
 # Procesamiento de imágenes con YOLO y visión por computadora
 
-Este proyecto utiliza el modelo **YOLO (You Only Look Once)** para procesar imágenes y detectar objetos en ellas. El código está dividido en tres fases principales: creación de una carpeta para almacenar resultados, procesamiento de la imagen y descarga de los resultados en un archivo ZIP. Desarrollado or José R. Leonett para la comunidad de 
+Este proyecto utiliza el modelo **YOLO (You Only Look Once)** para procesar imágenes y detectar objetos en ellas. El código está dividido en tres fases principales: creación de una carpeta para almacenar resultados, procesamiento de la imagen y descarga de los resultados en un archivo ZIP. Desarrollado por José R. Leonett para la comunidad de Peritos Forenses Digitales de Guatemala.
 
 ![image](https://lh3.googleusercontent.com/d/1dWjYPUS0MHsnFEbMmfQO7kTFJgOP0hnR)
 
