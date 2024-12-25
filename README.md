@@ -56,7 +56,6 @@ Para ejecutar este código, es necesario tener los siguientes archivos en el ent
 
 ---
 
----
 # Cómo citar este trabajo.
 Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```bash
