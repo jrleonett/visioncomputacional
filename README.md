@@ -2,7 +2,7 @@
 
 Este proyecto utiliza el modelo **YOLO (You Only Look Once)** para procesar imágenes y detectar objetos en ellas. El código está dividido en tres fases principales: creación de una carpeta para almacenar resultados, procesamiento de la imagen y descarga de los resultados en un archivo ZIP. Desarrollado por José R. Leonett para la comunidad de Peritos Forenses Digitales de Guatemala.
 
-![image](https://lh3.googleusercontent.com/d/1dWjYPUS0MHsnFEbMmfQO7kTFJgOP0hnR)
+![image](https://github.com/jrleonett/Deteccion-Objetos-con-Vision-Computacional/blob/main/vision-computadora.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jrleonett/visioncomputacional/blob/main/visioncomputacional.ipynb)
 
