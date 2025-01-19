@@ -1,4 +1,7 @@
 # Procesamiento de imágenes con YOLO y visión por computadora
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
+![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
+![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
 Este proyecto utiliza el modelo **YOLO (You Only Look Once)** para procesar imágenes y detectar objetos en ellas. El código está dividido en tres fases principales: creación de una carpeta para almacenar resultados, procesamiento de la imagen y descarga de los resultados en un archivo ZIP. Desarrollado por José R. Leonett para la comunidad de Peritos Forenses Digitales de Guatemala.
 
@@ -67,6 +70,6 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```
 
 **Licencia.**
-- Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detalles.
 
 
